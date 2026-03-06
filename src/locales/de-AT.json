@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "menu": "Speisekarte",
+    "featured": "Gericht des Moments",
+    "story": "Unsere Geschichte",
+    "promos": "Aktionen",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "slogan": "Wo Tradition auf die Gegenwart trifft",
+    "viewMenu": "Speisekarte ansehen",
+    "featuredDish": "Gericht des Moments"
+  },
+  "menu": {
+    "title": "Unsere Speisekarte",
+    "subtitle": "Aromen, die Geschichten erzählen",
+    "categories": {
+      "ramen": "Ramen",
+      "rice": "Reis",
+      "dumplings": "Dumplings",
+      "noodles": "Nudeln",
+      "desserts": "Desserts",
+      "drinks": "Getränke"
+    },
+    "all": "Alle",
+    "howItsMade": "So wird's gemacht",
+    "dishes": {
+      "r1": { "name": "Tonkotsu-Ramen", "desc": "Cremige Schweinebrühe, Nudeln al dente, mariniertes Ei und Nori." },
+      "r2": { "name": "Miso-Ramen", "desc": "Fermentiertes Miso, Mais, Butter und Chashu." },
+      "r3": { "name": "Shoyu-Ramen", "desc": "Sojasoßen-Basis, klare Brühe, Naruto und Frühlingszwiebel." },
+      "ri1": { "name": "Yangzhou-Reis", "desc": "Klassischer gebratener Reis mit Schinken, Garnelen und Erbsen." },
+      "ri2": { "name": "Kantonesischer Reis", "desc": "Wok mit knackigem Gemüse und Geheimsauce." },
+      "ri3": { "name": "Drei-Köstlichkeiten-Reis", "desc": "Huhn, Garnelen, Schwein mit Ei und Soja." },
+      "d1": { "name": "Xiaolongbao", "desc": "Dampfknödel mit Suppe und Schwein. Ingwersauce." },
+      "d2": { "name": "Jiaozi", "desc": "Gedämpft oder gebraten. Schweine-Gemüse-Füllung." },
+      "d3": { "name": "Wonton-Suppe", "desc": "Zarte Wontons in aromatischer Brühe mit Pak Choi." },
+      "n1": { "name": "Dan-Dan-Nudeln", "desc": "Scharfe Nudeln mit Schwein, Sesam und Erdnusssauce." },
+      "n2": { "name": "Chow Mein", "desc": "Knusprige gebratene Nudeln mit Gemüse." },
+      "n3": { "name": "Lo Mein", "desc": "Weiche Nudeln mit Sojasoße und Gemüse." },
+      "de1": { "name": "Mango-Pudding", "desc": "Cremiges Dessert mit Mango und Kokos." },
+      "de2": { "name": "Sesamkugeln", "desc": "Frittiertes Süß mit Rotbohnenpaste." },
+      "de3": { "name": "Mondkuchen", "desc": "Dünner Teig mit Lotus- oder Bohnenpaste." },
+      "dr1": { "name": "Jasmintee", "desc": "Duftender grüner Tee. Heiß oder kalt." },
+      "dr2": { "name": "Bubble Tea", "desc": "Tee mit Tapioka-Perlen. Taro, Matcha, Mango." },
+      "dr3": { "name": "Litschitee", "desc": "Litschi-Erfrischung mit floralen Noten." }
+    }
+  },
+  "featured": {
+    "title": "Gericht des Moments",
+    "subtitle": "Das dürft ihr nicht verpassen",
+    "badges": {
+      "popular": "Beliebt",
+      "new": "Neu",
+      "chef": "Küchenchef-Empfehlung"
+    }
+  },
+  "story": {
+    "title": "Das Wesen von Jeneri",
+    "subtitle": "Mehr als ein Restaurant",
+    "paragraph1": "Jeneri entstand aus der Leidenschaft für zeitgenössische chinesische Küche: Wir ehren überlieferte Rezepte und interpretieren sie mit modernem Touch. Jedes Gericht ist eine Reise zwischen Tradition und Innovation.",
+    "paragraph2": "Unser Raum ist so gestaltet, dass jedes Essen ein filmreifes Erlebnis wird: gedämpftes Licht, Gold- und Rotakzente, der aromatische Dampf, der den Tisch umhüllt.",
+    "paragraph3": "Kommt und entdeckt Aromen, die Erinnerungen wecken und neue schaffen."
+  },
+  "promos": {
+    "title": "Combos und Aktionen",
+    "subtitle": "Mehr Geschmack, besserer Preis",
+    "cta": "Angebote ansehen",
+    "combos": {
+      "ramenCombo": "Ramen-Combo",
+      "ramenComboDesc": "Ramen + Getränk + Dessert. Das volle Erlebnis.",
+      "feast": "Jeneri-Festmahl",
+      "feastDesc": "2 Ramen, Reis, Dumplings und Getränke. Zum Teilen.",
+      "dumplingFeast": "Dumpling-Fest",
+      "dumplingFeastDesc": "Xiaolongbao, Jiaozi und Wonton. Haussoße."
+    }
+  },
+  "footer": {
+    "tagline": "Jeneri — Comida sin Aloz no es Comida.",
+    "links": {
+      "menu": "Speisekarte",
+      "reservations": "Reservierung",
+      "contact": "Kontakt",
+      "careers": "Karriere"
+    },
+    "social": "Folgt uns",
+    "language": "Sprache",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "currency": "€"
+}

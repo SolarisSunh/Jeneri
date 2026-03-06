@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "featured": "Plat du moment",
+    "story": "Notre histoire",
+    "promos": "Promotions",
+    "contact": "Contact"
+  },
+  "hero": {
+    "slogan": "Où la tradition rencontre le présent",
+    "viewMenu": "Voir le menu",
+    "featuredDish": "Plat du moment"
+  },
+  "menu": {
+    "title": "Notre menu",
+    "subtitle": "Des saveurs qui racontent des histoires",
+    "categories": {
+      "ramen": "Ramen",
+      "rice": "Riz",
+      "dumplings": "Dumplings",
+      "noodles": "Nouilles",
+      "desserts": "Desserts",
+      "drinks": "Boissons"
+    },
+    "all": "Tout",
+    "howItsMade": "Comment c'est fait",
+    "dishes": {
+      "r1": { "name": "Ramen Tonkotsu", "desc": "Bouillon de porc crémeux, nouilles al dente, œuf mariné et nori." },
+      "r2": { "name": "Ramen Miso", "desc": "Miso fermenté, maïs, beurre et chashu. Saveurs profondes." },
+      "r3": { "name": "Ramen Shoyu", "desc": "Base de sauce soja, bouillon clair, naruto et oignon frais." },
+      "ri1": { "name": "Riz Yangzhou", "desc": "Riz sauté classique au jambon, crevettes, petits pois et œuf." },
+      "ri2": { "name": "Riz cantonais", "desc": "Wok à feu vif, légumes croquants et sauce secrète." },
+      "ri3": { "name": "Riz sauté trois délices", "desc": "Poulet, crevettes et porc avec œuf et soja." },
+      "d1": { "name": "Xiaolongbao", "desc": "Dumplings vapeur farcis au bouillon et porc. Sauce gingembre." },
+      "d2": { "name": "Jiaozi", "desc": "Dumplings vapeur ou frits. Farce porc et légumes." },
+      "d3": { "name": "Soupe wonton", "desc": "Wontons fondants dans un bouillon aromatique au pak choi." },
+      "n1": { "name": "Dan Dan Noodles", "desc": "Nouilles piquantes au porc, sésame et sauce cacahuète." },
+      "n2": { "name": "Chow Mein", "desc": "Nouilles sautées croquantes aux légumes et protéines." },
+      "n3": { "name": "Lo Mein", "desc": "Nouilles fondantes à la sauce soja et légumes." },
+      "de1": { "name": "Pudding mangue", "desc": "Dessert crémeux à la mangue fraîche et noix de coco." },
+      "de2": { "name": "Boules de sésame", "desc": "Pâtisserie frite fourrée à la pâte de haricot rouge." },
+      "de3": { "name": "Gâteau de lune", "desc": "Pâte fine fourrée au lotus ou à la pâte de haricot." },
+      "dr1": { "name": "Thé au jasmin", "desc": "Thé vert parfumé. Chaud ou glacé." },
+      "dr2": { "name": "Bubble tea", "desc": "Thé aux perles de tapioca. Taro, matcha, mangue." },
+      "dr3": { "name": "Thé au litchi", "desc": "Rafraîchissement au litchi, notes florales." }
+    }
+  },
+  "featured": {
+    "title": "Plat du moment",
+    "subtitle": "À ne pas manquer",
+    "badges": {
+      "popular": "Populaire",
+      "new": "Nouveau",
+      "chef": "Choix du chef"
+    }
+  },
+  "story": {
+    "title": "L'essence de Jeneri",
+    "subtitle": "Plus qu'un restaurant",
+    "paragraph1": "Jeneri est né de la passion pour la cuisine chinoise contemporaine : nous honorons les recettes ancestrales et les interprétons avec une touche moderne. Chaque plat est un voyage entre tradition et innovation.",
+    "paragraph2": "Notre espace est conçu pour que chaque repas soit une expérience cinématographique : lumière tamisée, détails or et rouge, et la vapeur aromatique qui enveloppe la table.",
+    "paragraph3": "Venez découvrir des saveurs qui éveillent les souvenirs et en créent de nouveaux."
+  },
+  "promos": {
+    "title": "Menus et promotions",
+    "subtitle": "Plus de goût, meilleur prix",
+    "cta": "Voir les offres",
+    "combos": {
+      "ramenCombo": "Menu Ramen",
+      "ramenComboDesc": "Ramen + boisson + dessert. L'expérience complète.",
+      "feast": "Festin Jeneri",
+      "feastDesc": "2 ramen, riz, dumplings et boissons. À partager.",
+      "dumplingFeast": "Festin de dumplings",
+      "dumplingFeastDesc": "Xiaolongbao, jiaozi et wonton. Sauce maison."
+    }
+  },
+  "footer": {
+    "tagline": "Jeneri — Comida sin Aloz no es Comida.",
+    "links": {
+      "menu": "Menu",
+      "reservations": "Réservations",
+      "contact": "Contact",
+      "careers": "Rejoignez-nous"
+    },
+    "social": "Suivez-nous",
+    "language": "Langue",
+    "rights": "Tous droits réservés."
+  },
+  "currency": "EUR"
+}

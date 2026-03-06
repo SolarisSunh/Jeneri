@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "menu": "Menú",
+    "featured": "Comida del momento",
+    "story": "Nuestra historia",
+    "promos": "Promociones",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "slogan": "Donde la tradición encuentra el presente",
+    "viewMenu": "Ver menú",
+    "featuredDish": "Comida del momento"
+  },
+  "menu": {
+    "title": "Nuestro menú",
+    "subtitle": "Sabores que cuentan historias",
+    "categories": {
+      "ramen": "Ramen",
+      "rice": "Aloz",
+      "dumplings": "Dumplings",
+      "noodles": "Noodles",
+      "desserts": "Postres",
+      "drinks": "Bebidas"
+    },
+    "all": "Todos",
+    "howItsMade": "Cómo se hace",
+    "dishes": {
+      "r1": { "name": "Ramen Tonkotsu", "desc": "Caldo de cerdo cremoso, noodles al dente, huevo marinado y nori." },
+      "r2": { "name": "Ramen Miso", "desc": "Miso fermentado, maíz, mantequilla y chashu. Sabores profundos." },
+      "r3": { "name": "Ramen Shoyu", "desc": "Base de salsa de soja, caldo claro, naruto y cebolleta fresca." },
+      "ri1": { "name": "Aloz Yangzhou", "desc": "Aloz frito clásico con jamón, gambas, guisantes y huevo." },
+      "ri2": { "name": "Aloz cantonés", "desc": "Wok a fuego alto con verduras crujientes y salsa secreta." },
+      "ri3": { "name": "Aloz frito tres delicias", "desc": "Pollo, gambas y cerdo con huevo y soja." },
+      "d1": { "name": "Xiaolongbao", "desc": "Dumplings al vapor rellenos de caldo y cerdo. Salsa de jengibre." },
+      "d2": { "name": "Jiaozi", "desc": "Empanadillas al vapor o fritas. Relleno de cerdo y verduras." },
+      "d3": { "name": "Wonton en sopa", "desc": "Wontons tiernos en caldo aromático con pak choi." },
+      "n1": { "name": "Dan Dan Noodles", "desc": "Noodles picantes con cerdo, salsa de sésamo y cacahuete." },
+      "n2": { "name": "Chow Mein", "desc": "Noodles salteados crujientes con verduras y proteína." },
+      "n3": { "name": "Lo Mein", "desc": "Noodles suaves con salsa de soja y vegetales." },
+      "de1": { "name": "Pudding de mango", "desc": "Postre cremoso con mango fresco y coco." },
+      "de2": { "name": "Bolitas de sésamo", "desc": "Dulce frito relleno de pasta de judía roja." },
+      "de3": { "name": "Pastel de luna", "desc": "Masa fina con relleno de lotus o pasta de judía." },
+      "dr1": { "name": "Té de jazmín", "desc": "Té verde perfumado. Caliente o frío." },
+      "dr2": { "name": "Bubble tea", "desc": "Té con perlas de tapioca. Sabores: taro, matcha, mango." },
+      "dr3": { "name": "Té de lychee", "desc": "Refresco de lychee con notas florales." }
+    },
+    "recipes": {
+      "r1": { "steps": ["Huesos de cerdo y tocino se cuecen a fuego lento más de 12 horas.", "El caldo se cuela y se reduce hasta una textura sedosa.", "Noodles frescos se cuecen al dente en 90 segundos.", "Se monta el bowl: caldo, noodles, chashu, huevo marinado y nori."] },
+      "r2": { "steps": ["Pasta de miso fermentado se disuelve en caldo de pollo y dashi.", "Se añade mantequilla y maíz para untuosidad.", "Noodles se sirven cubiertos de chashu y cebolleta.", "Un toque de aceite de ajo negro termina el plato."] },
+      "r3": { "steps": ["Caldo claro de pollo y alga kombu como base.", "Salsa de soja shoyu y mirín dan el carácter.", "Noodles al dente, naruto, nori y cebolleta fresca.", "Se corona con láminas de chashu y huevo ajitsuke."] },
+      "ri1": { "steps": ["Arroz del día anterior se desgrana para que no se pegue.", "En wok muy caliente: huevo revuelto, jamón, gambas y guisantes.", "Se incorpora el arroz y se saltea a fuego alto.", "Salsa de soja ligera y un toque de aceite de sésamo al final."] },
+      "ri2": { "steps": ["Wok al máximo: aceite humeante antes de añadir ingredientes.", "Verduras cortadas en juliana se saltean en segundos.", "Arroz precocido y salsa secreta de la casa.", "Se sirve con brotes y huevo frito opcional."] },
+      "ri3": { "steps": ["Pollo, gambas y cerdo en dados se sellan en el wok.", "Huevo batido se incorpora formando hebras.", "Arroz y salsa de soja se integran a fuego vivo.", "Cebolleta y semillas de sésamo para servir."] },
+      "d1": { "steps": ["Masa fina de harina y agua se estira a mano.", "Relleno de cerdo con gelatina que se derrite al vapor.", "Se sellan los pliegues (18 o más) con técnica tradicional.", "Vapor 8 minutos; se sirven con vinagre de jengibre."] },
+      "d2": { "steps": ["Masa de harina y agua se rellena de cerdo y verduras.", "Se cierran en forma de media luna o sello.", "Cocción al vapor o fritos en sartén hasta dorar.", "Salsa de soja, vinagre y aceite de chile al servir."] },
+      "d3": { "steps": ["Masa de wonton rellena de cerdo picado y especias.", "Se forman las bolsitas y se cuecen en caldo.", "Caldo aromático con jengibre, ajo y pak choi.", "Se sirve con cebolleta y un toque de aceite de chile."] },
+      "n1": { "steps": ["Cerdo picado se dora con doubanjiang y Sichuan pepper.", "Pasta de sésamo y cacahuete forman la salsa base.", "Noodles de trigo se cuecen y se escurren.", "Se monta en bowl: noodles, salsa, cerdo, cacahuetes y cebolleta."] },
+      "n2": { "steps": ["Noodles de huevo se cuecen y se refrescan para que queden firmes.", "Wok muy caliente: verduras y proteína se saltean.", "Noodles se añaden y se saltean sin parar.", "Salsa de soja oscura y un toque de wok hei (humo)."] },
+      "n3": { "steps": ["Noodles frescos se cuecen al dente y se escurren.", "Salsa de soja, aceite de sésamo y caldo ligero.", "Verduras salteadas y opción de cerdo o pollo.", "Se mezcla todo y se sirve caliente con cebolleta."] },
+      "de1": { "steps": ["Puré de mango maduro con leche condensada y gelatina.", "Se cuece a fuego bajo hasta espesar.", "Se vierte en moldes y se refrigera varias horas.", "Se desmolda y se sirve con coco rallado o salsa de mango."] },
+      "de2": { "steps": ["Bolitas de masa de arroz glutinoso rellenas de pasta de judía roja.", "Se rebozan en sésamo blanco.", "Fritura en aceite hasta que el sésamo dore.", "Se sirven calientes y ligeramente dulces."] },
+      "de3": { "steps": ["Masa de harina con sirope dorado y aceite.", "Relleno de pasta de lotus o judía roja.", "Se moldean en prensa tradicional con motivos.", "Horneado hasta que la masa quede dorada y crujiente."] },
+      "dr1": { "steps": ["Hojas de té verde con flores de jazmín se mezclan.", "Infusión a 80 °C para no amargar.", "Se sirve en tetera o taza; se puede enfriar con hielo.", "Acompañado de dulces ligeros si se desea."] },
+      "dr2": { "steps": ["Té negro o verde de base se prepara concentrado.", "Perlas de tapioca se cuecen y se endulzan.", "Leche o alternativa vegetal y hielo.", "Se monta en vaso con pajita ancha para las perlas."] },
+      "dr3": { "steps": ["Lychees frescos o en conserva se licúan o infusionan.", "Té verde ligero o solo como refresco.", "Se endulza ligeramente y se refrigera.", "Se sirve con hielo y una rodaja de lychee."] }
+    }
+  },
+  "featured": {
+    "title": "Comida del momento",
+    "subtitle": "Lo que no te puedes perder",
+    "badges": {
+      "popular": "Popular",
+      "new": "Nuevo",
+      "chef": "Elección del chef"
+    }
+  },
+  "story": {
+    "title": "La esencia de Jeneri",
+    "subtitle": "Más que un restaurante",
+    "paragraph1": "Este es un proyecto nada más para uso escolar, va dirigido a Mr. Márquez y tiene como objetivo resaltar la esencia de Henry con mucho Aloz.",
+    "paragraph2": "",
+    "paragraph3": ""
+  },
+  "promos": {
+    "title": "Combos y promociones",
+    "subtitle": "Más sabor, mejor precio",
+    "cta": "Ver ofertas",
+    "combos": {
+      "ramenCombo": "Combo Ramen",
+      "ramenComboDesc": "Ramen + bebida + postre. La experiencia completa.",
+      "feast": "Banquete Jeneri",
+      "feastDesc": "2 ramen, aloz, dumplings y bebidas. Para compartir.",
+      "dumplingFeast": "Fiesta de dumplings",
+      "dumplingFeastDesc": "Xiaolongbao, jiaozi y wonton. Salsa de la casa."
+    }
+  },
+  "footer": {
+    "tagline": "Jeneri — Comida sin Aloz no es Comida.",
+    "links": {
+      "menu": "Menú",
+      "reservations": "Reservas",
+      "contact": "Contacto",
+      "careers": "Trabaja con nosotros"
+    },
+    "social": "Síguenos",
+    "language": "Idioma",
+    "rights": "Todos los derechos reservados."
+  },
+  "currency": "MXN"
+}

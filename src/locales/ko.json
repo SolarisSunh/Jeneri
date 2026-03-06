@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "menu": "메뉴",
+    "featured": "이번 주 요리",
+    "story": "우리 이야기",
+    "promos": "프로모션",
+    "contact": "연락처"
+  },
+  "hero": {
+    "slogan": "전통과 현대가 만나는 곳",
+    "viewMenu": "메뉴 보기",
+    "featuredDish": "이번 주 요리"
+  },
+  "menu": {
+    "title": "메뉴",
+    "subtitle": "이야기를 전하는 맛",
+    "categories": {
+      "ramen": "라멘",
+      "rice": "밥",
+      "dumplings": "만두",
+      "noodles": "면",
+      "desserts": "디저트",
+      "drinks": "음료"
+    },
+    "all": "전체",
+    "howItsMade": "만드는 법",
+    "dishes": {
+      "r1": { "name": "돈코츠 라멘", "desc": "크리미한 돼지 국물, 알 dente 면, 맛갈 계란과 김." },
+      "r2": { "name": "미소 라멘", "desc": "발효 미소, 옥수수, 버터와 차슈." },
+      "r3": { "name": "쇼유 라멘", "desc": "간장 베이스, 맑은 국물, 나루토와 파." },
+      "ri1": { "name": "양주 볶음밥", "desc": "햄, 새우, 완두콩과 계란의 클래식 볶음밥." },
+      "ri2": { "name": "광동식 밥", "desc": "바삭한 채소와 비밀 소스." },
+      "ri3": { "name": "삼선 볶음밥", "desc": "닭, 새우, 돼지와 계란." },
+      "d1": { "name": "샤오롱바오", "desc": "돼지 수프 만두. 생강 소스." },
+      "d2": { "name": "교자", "desc": "찜 또는 군만두. 돼지와 채소 소." },
+      "d3": { "name": "원탕 수프", "desc": "향긋한 국물과 청경채." },
+      "n1": { "name": "단단면", "desc": "돼지, 참깨와 땅콩 소스의 매운 면." },
+      "n2": { "name": "차우멘", "desc": "바삭한 볶음면과 채소." },
+      "n3": { "name": "로멘", "desc": "간장과 채소의 부드러운 면." },
+      "de1": { "name": "망고 푸딩", "desc": "신선한 망고와 코코넛 디저트." },
+      "de2": { "name": "찹쌀 경단", "desc": "팥소 단팥." },
+      "de3": { "name": "월병", "desc": "연밥 또는 팥 소." },
+      "dr1": { "name": "자스민 차", "desc": "향긋한 녹차. 뜨겁거나 차갑게." },
+      "dr2": { "name": "버블티", "desc": "타피오카 펄. 타로, 말차, 망고." },
+      "dr3": { "name": "리치 차", "desc": "꽃향기 리치 음료." }
+    }
+  },
+  "featured": {
+    "title": "이번 주 요리",
+    "subtitle": "놓치면 안 되는 메뉴",
+    "badges": {
+      "popular": "인기",
+      "new": "신메뉴",
+      "chef": "셰프 추천"
+    }
+  },
+  "story": {
+    "title": "제네리의 본질",
+    "subtitle": "단순한 식당이 아닌",
+    "paragraph1": "제네리는 현대 중화 요리에 대한 열정에서 탄생했습니다. 우리는 전통 레시피를 존중하고 현대적인 터치로 재해석합니다. 모든 요리는 전통과 혁신 사이의 여정입니다.",
+    "paragraph2": "우리 공간은 모든 식사가 영화 같은 경험이 되도록 설계되었습니다. 은은한 조명, 금과 빨간색 디테일, 테이블을 감싸는 향긋한 김.",
+    "paragraph3": "기억을 깨우고 새로운 것을 만드는 맛을 발견하러 오세요."
+  },
+  "promos": {
+    "title": "콤보와 프로모션",
+    "subtitle": "더 많은 맛, 더 좋은 가격",
+    "cta": "할인 보기",
+    "combos": {
+      "ramenCombo": "라멘 콤보",
+      "ramenComboDesc": "라멘 + 음료 + 디저트.",
+      "feast": "제네리 페스트",
+      "feastDesc": "라멘 2인분, 밥, 만두와 음료. 나눠 먹기 좋아요.",
+      "dumplingFeast": "만두 페스트",
+      "dumplingFeastDesc": "샤오롱바오, 교자, 원탕. 하우스 소스."
+    }
+  },
+  "footer": {
+    "tagline": "Jeneri — Comida sin Aloz no es Comida.",
+    "links": {
+      "menu": "메뉴",
+      "reservations": "예약",
+      "contact": "연락처",
+      "careers": "채용"
+    },
+    "social": "팔로우",
+    "language": "언어",
+    "rights": "All rights reserved."
+  },
+  "currency": "€"
+}

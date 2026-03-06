@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "menu": "菜单",
+    "featured": "本季主打",
+    "story": "我们的故事",
+    "promos": "优惠",
+    "contact": "联系"
+  },
+  "hero": {
+    "slogan": "传统与当下相遇之处",
+    "viewMenu": "查看菜单",
+    "featuredDish": "本季主打"
+  },
+  "menu": {
+    "title": "我们的菜单",
+    "subtitle": "有故事的滋味",
+    "categories": {
+      "ramen": "拉面",
+      "rice": "米饭",
+      "dumplings": "饺子",
+      "noodles": "面条",
+      "desserts": "甜点",
+      "drinks": "饮品"
+    },
+    "all": "全部",
+    "howItsMade": "制作过程",
+    "dishes": {
+      "r1": { "name": "豚骨拉面", "desc": "浓郁猪骨汤、劲道面条、溏心蛋与海苔。" },
+      "r2": { "name": "味噌拉面", "desc": "发酵味噌、玉米、黄油与叉烧。" },
+      "r3": { "name": "酱油拉面", "desc": "酱油底、清汤、鱼板与青葱。" },
+      "ri1": { "name": "扬州炒饭", "desc": "经典炒饭配火腿、虾仁、豌豆与蛋。" },
+      "ri2": { "name": "粤式炒饭", "desc": "大火快炒时蔬与秘制酱汁。" },
+      "ri3": { "name": "三丝炒饭", "desc": "鸡丝、虾仁、肉丝与蛋、酱油。" },
+      "d1": { "name": "小笼包", "desc": "灌汤鲜肉小笼，配姜丝醋。" },
+      "d2": { "name": "饺子", "desc": "蒸或煎饺，猪肉蔬菜馅。" },
+      "d3": { "name": "云吞汤", "desc": "鲜嫩云吞配清汤与青菜。" },
+      "n1": { "name": "担担面", "desc": "麻辣肉末、芝麻与花生酱。" },
+      "n2": { "name": "炒面", "desc": "脆炒面与时蔬、蛋白质。" },
+      "n3": { "name": "捞面", "desc": "软面配酱油与蔬菜。" },
+      "de1": { "name": "芒果布丁", "desc": "芒果与椰香甜品。" },
+      "de2": { "name": "芝麻球", "desc": "炸芝麻球配红豆沙。" },
+      "de3": { "name": "月饼", "desc": "莲蓉或豆沙馅酥皮。" },
+      "dr1": { "name": "茉莉花茶", "desc": "清香绿茶，热饮或冰饮。" },
+      "dr2": { "name": "珍珠奶茶", "desc": "珍珠、芋头、抹茶或芒果味。" },
+      "dr3": { "name": "荔枝茶", "desc": "荔枝果香茶饮。" }
+    }
+  },
+  "featured": {
+    "title": "本季主打",
+    "subtitle": "不可错过",
+    "badges": {
+      "popular": "人气",
+      "new": "新品",
+      "chef": "主厨推荐"
+    }
+  },
+  "story": {
+    "title": "Jeneri 的精髓",
+    "subtitle": "不止是一家餐厅",
+    "paragraph1": "Jeneri 源于对当代中餐的热情：我们尊重传统配方，并以现代手法重新演绎。每一道菜都是传统与创新之间的旅程。",
+    "paragraph2": "我们的空间让每一餐都像一场电影：柔和的灯光、金与红的细节、萦绕桌边的香气。",
+    "paragraph3": "来发现唤醒记忆、创造新回忆的滋味。"
+  },
+  "promos": {
+    "title": "套餐与优惠",
+    "subtitle": "更多风味，更优价格",
+    "cta": "查看优惠",
+    "combos": {
+      "ramenCombo": "拉面套餐",
+      "ramenComboDesc": "拉面 + 饮品 + 甜点。完整体验。",
+      "feast": "Jeneri 盛宴",
+      "feastDesc": "2份拉面、炒饭、饺子与饮品。适合分享。",
+      "dumplingFeast": "饺子盛宴",
+      "dumplingFeastDesc": "小笼包、饺子与云吞。特制酱汁。"
+    }
+  },
+  "footer": {
+    "tagline": "Jeneri — Comida sin Aloz no es Comida.",
+    "links": {
+      "menu": "菜单",
+      "reservations": "预订",
+      "contact": "联系",
+      "careers": "加入我们"
+    },
+    "social": "关注我们",
+    "language": "语言",
+    "rights": "版权所有。"
+  },
+  "currency": "€"
+}

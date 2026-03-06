@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "featured": "Dish of the moment",
+    "story": "Our story",
+    "promos": "Promotions",
+    "contact": "Contact"
+  },
+  "hero": {
+    "slogan": "Where tradition meets the present",
+    "viewMenu": "View menu",
+    "featuredDish": "Dish of the moment"
+  },
+  "menu": {
+    "title": "Our menu",
+    "subtitle": "Flavors that tell stories",
+    "categories": {
+      "ramen": "Ramen",
+      "rice": "Rice",
+      "dumplings": "Dumplings",
+      "noodles": "Noodles",
+      "desserts": "Desserts",
+      "drinks": "Drinks"
+    },
+    "all": "All",
+    "howItsMade": "How it's made",
+    "dishes": {
+      "r1": { "name": "Tonkotsu Ramen", "desc": "Creamy pork broth, al dente noodles, marinated egg and nori." },
+      "r2": { "name": "Miso Ramen", "desc": "Fermented miso, corn, butter and chashu. Deep flavours." },
+      "r3": { "name": "Shoyu Ramen", "desc": "Soy sauce base, clear broth, naruto and fresh spring onion." },
+      "ri1": { "name": "Yangzhou Fried Rice", "desc": "Classic fried rice with ham, shrimp, peas and egg." },
+      "ri2": { "name": "Cantonese Rice", "desc": "High-heat wok with crunchy vegetables and secret sauce." },
+      "ri3": { "name": "Three Delights Fried Rice", "desc": "Chicken, shrimp and pork with egg and soy." },
+      "d1": { "name": "Xiaolongbao", "desc": "Steamed soup dumplings with pork. Ginger sauce." },
+      "d2": { "name": "Jiaozi", "desc": "Steamed or pan-fried dumplings. Pork and vegetable filling." },
+      "d3": { "name": "Wonton Soup", "desc": "Tender wontons in aromatic broth with pak choi." },
+      "n1": { "name": "Dan Dan Noodles", "desc": "Spicy noodles with pork, sesame and peanut sauce." },
+      "n2": { "name": "Chow Mein", "desc": "Crispy stir-fried noodles with vegetables and protein." },
+      "n3": { "name": "Lo Mein", "desc": "Soft noodles with soy sauce and vegetables." },
+      "de1": { "name": "Mango Pudding", "desc": "Creamy dessert with fresh mango and coconut." },
+      "de2": { "name": "Sesame Balls", "desc": "Fried sweet with red bean paste filling." },
+      "de3": { "name": "Mooncake", "desc": "Thin pastry with lotus or bean paste filling." },
+      "dr1": { "name": "Jasmine Tea", "desc": "Scented green tea. Hot or iced." },
+      "dr2": { "name": "Bubble Tea", "desc": "Tea with tapioca pearls. Taro, matcha, mango." },
+      "dr3": { "name": "Lychee Tea", "desc": "Lychee refresher with floral notes." }
+    },
+    "recipes": {
+      "r1": { "steps": ["Pork bones and bacon simmer for 12+ hours.", "Broth is strained and reduced to a silky texture.", "Fresh noodles cooked al dente in 90 seconds.", "Bowl is built: broth, noodles, chashu, marinated egg, nori."] },
+      "r2": { "steps": ["Fermented miso paste is dissolved in chicken and dashi broth.", "Butter and corn add richness.", "Noodles topped with chashu and spring onion.", "A touch of black garlic oil finishes the dish."] },
+      "r3": { "steps": ["Clear chicken and kombu broth as base.", "Shoyu and mirin give character.", "Al dente noodles, naruto, nori and fresh scallion.", "Crowned with chashu slices and ajitsuke egg."] },
+      "ri1": { "steps": ["Day-old rice is broken up so it doesn't stick.", "In a very hot wok: scrambled egg, ham, shrimp and peas.", "Rice is added and stir-fried over high heat.", "Light soy sauce and a touch of sesame oil at the end."] },
+      "ri2": { "steps": ["Wok at full heat: smoking oil before adding ingredients.", "Julienned vegetables stir-fried in seconds.", "Precooked rice and house secret sauce.", "Served with bean sprouts and optional fried egg."] },
+      "ri3": { "steps": ["Chicken, shrimp and pork diced and seared in the wok.", "Beaten egg is added in strands.", "Rice and soy sauce are integrated over high heat.", "Scallion and sesame seeds to serve."] },
+      "d1": { "steps": ["Thin dough of flour and water is hand-stretched.", "Pork filling with gelatin that melts when steamed.", "Pleats (18 or more) sealed with traditional technique.", "Steam for 8 minutes; serve with ginger vinegar."] },
+      "d2": { "steps": ["Flour and water dough is filled with pork and vegetables.", "Shaped into half-moons or sealed.", "Steamed or pan-fried until golden.", "Soy sauce, vinegar and chilli oil to serve."] },
+      "d3": { "steps": ["Wonton wrappers filled with minced pork and spices.", "Little parcels are formed and cooked in broth.", "Aromatic broth with ginger, garlic and pak choi.", "Served with scallion and a touch of chilli oil."] },
+      "n1": { "steps": ["Minced pork is browned with doubanjiang and Sichuan pepper.", "Sesame and peanut paste form the sauce base.", "Wheat noodles are cooked and drained.", "Bowl is assembled: noodles, sauce, pork, peanuts and scallion."] },
+      "n2": { "steps": ["Egg noodles are cooked and cooled to stay firm.", "Very hot wok: vegetables and protein are stir-fried.", "Noodles are added and stir-fried constantly.", "Dark soy sauce and a touch of wok hei (smoke)."] },
+      "n3": { "steps": ["Fresh noodles are cooked al dente and drained.", "Soy sauce, sesame oil and light broth.", "Stir-fried vegetables and optional pork or chicken.", "Tossed and served hot with scallion."] },
+      "de1": { "steps": ["Ripe mango purée with condensed milk and gelatin.", "Cooked over low heat until thickened.", "Poured into moulds and chilled for hours.", "Unmoulded and served with shredded coconut or mango sauce."] },
+      "de2": { "steps": ["Glutinous rice dough balls filled with red bean paste.", "Coated in white sesame seeds.", "Fried in oil until sesame is golden.", "Served warm and slightly sweet."] },
+      "de3": { "steps": ["Flour dough with golden syrup and oil.", "Lotus or red bean paste filling.", "Shaped in traditional mould with patterns.", "Baked until the pastry is golden and crisp."] },
+      "dr1": { "steps": ["Green tea leaves and jasmine flowers are blended.", "Brewed at 80°C to avoid bitterness.", "Served in teapot or cup; can be iced.", "Optional light sweets on the side."] },
+      "dr2": { "steps": ["Black or green tea base is brewed strong.", "Tapioca pearls are cooked and sweetened.", "Milk or plant alternative and ice.", "Assembled in a glass with a wide straw for the pearls."] },
+      "dr3": { "steps": ["Fresh or canned lychees are blended or infused.", "Light green tea or as a refresher.", "Lightly sweetened and chilled.", "Served over ice with a lychee slice."] }
+    }
+  },
+  "featured": {
+    "title": "Dish of the moment",
+    "subtitle": "What you can't miss",
+    "badges": {
+      "popular": "Popular",
+      "new": "New",
+      "chef": "Chef's choice"
+    }
+  },
+  "story": {
+    "title": "The essence of Jeneri",
+    "subtitle": "More than a restaurant",
+    "paragraph1": "Jeneri was born from a passion for contemporary Chinese cuisine: we honour ancestral recipes and interpret them with a modern touch. Every dish is a journey between tradition and innovation.",
+    "paragraph2": "Our space is designed so that every meal is a cinematic experience: soft lighting, gold and red details, and the aromatic steam that wraps around the table.",
+    "paragraph3": "Come discover flavours that awaken memories and create new ones."
+  },
+  "promos": {
+    "title": "Combos and promotions",
+    "subtitle": "More flavour, better price",
+    "cta": "View offers",
+    "combos": {
+      "ramenCombo": "Ramen Combo",
+      "ramenComboDesc": "Ramen + drink + dessert. The full experience.",
+      "feast": "Jeneri Feast",
+      "feastDesc": "2 ramen, rice, dumplings and drinks. To share.",
+      "dumplingFeast": "Dumpling Feast",
+      "dumplingFeastDesc": "Xiaolongbao, jiaozi and wonton. House sauce."
+    }
+  },
+  "footer": {
+    "tagline": "Jeneri — Comida sin Aloz no es Comida.",
+    "links": {
+      "menu": "Menu",
+      "reservations": "Reservations",
+      "contact": "Contact",
+      "careers": "Join us"
+    },
+    "social": "Follow us",
+    "language": "Language",
+    "rights": "All rights reserved."
+  },
+  "currency": "€"
+}
